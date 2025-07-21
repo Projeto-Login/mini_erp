@@ -1,5 +1,5 @@
 import mysql.connector
-from dotenv import load_dotenv #ta dando erro e sla o por que :)(o pip install tbm ta com erro vei)
+from dotenv import load_dotenv #arrumado aeee :)
 import os
 
 load_dotenv()
