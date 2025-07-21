@@ -1,8 +1,7 @@
 import mysql.connector
-from dotenv import load_dotenv
+from dotenv import load_dotenv #ta dando erro e sla o por que :)(o pip install tbm ta com erro vei)
 import os
 
-# Carrega as variáveis de ambiente do arquivo .env
 load_dotenv()
 
 def conectar():
